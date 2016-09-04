@@ -1,6 +1,6 @@
 # Tubify
 
-At the moment just a set of sparse python scripts written in less than an our. The idea was to write something where I enter the channelId of a YouTube channel 
+At the moment just a set of sparse python scripts written in less than an hour. The idea was to write something where I enter the channelId of a YouTube channel 
 that posted only songs and albums and I would get an automatically generated playlist on Spotify.
 
 I Succesfully implemented the YouTube searcher (I mean I just used Yotube Client for Python). I tried using [Spotipy](https://github.com/plamere/spotipy) to make the code to create 
